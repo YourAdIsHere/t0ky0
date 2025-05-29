@@ -1,17 +1,17 @@
 {
-  "name": "shibuya",
-  "displayName": "Shibuya",
-  "description": "A modern, vibrant color theme inspired by Tokyo Night.",
-  "version": "1.0.2",
-  "publisher": "jeroen-meijer",
+  "name": "t0ky0",
+  "displayName": "t0ky0",
+  "description": "A modern, vibrant color theme inspired by Shibuya.",
+  "version": "1.0.0",
+  "publisher": "youradishere",
   "author": {
-    "name": "Jeroen Meijer",
-    "url": "https://jfk.dev/",
-    "email": "jeroenfkmeijer@gmail.com"
+    "name": "youradhere",
+    "url": "https://youradhe.re",
+    "email": "ad@youradhe.re"
   },
   "license": "MIT",
   "repository": {
-    "url": "https://github.com/jeroen-meijer/shibuya"
+    "url": "https://github.com/youradishere/t0ky0"
   },
   "keywords": [
     "shibuya",
@@ -29,8 +29,8 @@
     "vscode": "^1.59.0"
   },
   "bugs": {
-    "url": "https://github.com/jeroen-meijer/pubspec-assist/shibuya",
-    "email": "jeroenfkmeijer@gmail.com"
+    "url": "https://github.com/youradishere/t0ky0/issues",
+    "email": "bugs@youradhe.re"
   },
   "categories": [
     "Themes"
@@ -38,9 +38,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Shibuya",
+        "label": "t0ky0",
         "uiTheme": "vs-dark",
-        "path": "./themes/Shibuya-color-theme.json"
+        "path": "./themes/t0ky0-color-theme.json"
       }
     ]
   }

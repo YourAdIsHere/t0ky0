@@ -10,15 +10,15 @@ The recommended font is [Fira Code][fira_code] with ligatures enabled.
 
 ### Color palette
 
-| Color   | Hex Code   |
-|---------|------------|
-| <span style="color:#FF1778;">&#9632;</span> | `#FF1778` |
-| <span style="color:#00DBB2;">&#9632;</span> | `#00DBB2` |
-| <span style="color:#69ADFF;">&#9632;</span> | `#69ADFF` |
-| <span style="color:#9ECE6A;">&#9632;</span> | `#9ECE6A` |
-| <span style="color:#C7CCD4;">&#9632;</span> | `#C7CCD4` |
-| <span style="color:#666B88;">&#9632;</span> | `#666B88` |
-| <span style="color:#0C0D12;">&#9632;</span> | `#0C0D12` |
+| Color | Hex Code |
+|-------|----------|
+| <span style="display:inline-block;width:16px;height:16px;background:#FF1778;border-radius:3px;border:1px solid #ccc;"></span> | `#FF1778` |
+| <span style="display:inline-block;width:16px;height:16px;background:#00DBB2;border-radius:3px;border:1px solid #ccc;"></span> | `#00DBB2` |
+| <span style="display:inline-block;width:16px;height:16px;background:#69ADFF;border-radius:3px;border:1px solid #ccc;"></span> | `#69ADFF` |
+| <span style="display:inline-block;width:16px;height:16px;background:#9ECE6A;border-radius:3px;border:1px solid #ccc;"></span> | `#9ECE6A` |
+| <span style="display:inline-block;width:16px;height:16px;background:#C7CCD4;border-radius:3px;border:1px solid #ccc;"></span> | `#C7CCD4` |
+| <span style="display:inline-block;width:16px;height:16px;background:#666B88;border-radius:3px;border:1px solid #ccc;"></span> | `#666B88` |
+| <span style="display:inline-block;width:16px;height:16px;background:#0C0D12;border-radius:3px;border:1px solid #ccc;"></span> | `#0C0D12` |
 
 
 

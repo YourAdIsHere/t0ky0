@@ -1,20 +1,26 @@
-# 渋谷 ・ Shibuya
+# t0ky0
 
-## A modern, vibrant color theme inspired by Tokyo Night.
+## A modern, vibrant color theme inspired by Shibuya and Tokyo Night.
 
-Shibuya is a dark Visual Studio Code color theme featuring bright, vibrant text colors and dark, subtle blue-toned background. With consistent coloring for variables, control flow statements and operators, the goal is to easily draw your attention to the places in your files that matter. It's based on the excellent [Tokyo Night][tokyo_night] color theme by [enkia][enkia]. The recommended font is [Fira Code][fira_code] with ligatures enabled.
+t0ky0 is a dark Visual Studio Code color theme featuring bright, vibrant text colors and dark, subtle blue-toned background. With consistent coloring for variables, control flow statements and operators, the goal is to easily draw your attention to the places in your files that matter.  
+This project is **based on the excellent [Shibuya][shibuya_jeroen_meijer] color theme by [jeroen-meijer][jeroen_meijer]**.  
+The recommended font is [Fira Code][fira_code] with ligatures enabled.
 
 <img src="assets/dart_example.png" alt="Dart code example" width="600px" />
 
 ### Color palette
 
-- ![#ff1778](https://via.placeholder.com/15/ff1778/000000?text=+) `#FF1778`
-- ![#00dbb2](https://via.placeholder.com/15/00dbb2/000000?text=+) `#00DBB2`
-- ![#69adff](https://via.placeholder.com/15/69adff/000000?text=+) `#69ADFF`
-- ![#9ece6a](https://via.placeholder.com/15/9ece6a/000000?text=+) `#9ECE6A`
-- ![#c7ccd4](https://via.placeholder.com/15/c7ccd4/000000?text=+) `#C7CCD4`
-- ![#666b88](https://via.placeholder.com/15/666b88/000000?text=+) `#666B88`
-- ![#0c0d12](https://via.placeholder.com/15/0c0d12/000000?text=+) `#0C0D12`
+| Color   | Hex Code   |
+|---------|------------|
+| <span style="color:#FF1778;">&#9632;</span> | `#FF1778` |
+| <span style="color:#00DBB2;">&#9632;</span> | `#00DBB2` |
+| <span style="color:#69ADFF;">&#9632;</span> | `#69ADFF` |
+| <span style="color:#9ECE6A;">&#9632;</span> | `#9ECE6A` |
+| <span style="color:#C7CCD4;">&#9632;</span> | `#C7CCD4` |
+| <span style="color:#666B88;">&#9632;</span> | `#666B88` |
+| <span style="color:#0C0D12;">&#9632;</span> | `#0C0D12` |
+
+
 
 ### Notes
 
@@ -22,12 +28,13 @@ While this theme has been primarily tested on and optimized for [Dart][dart_lang
 
 ### See also
 
+- The [Shibuya VS Code color theme][shibuya_jeroen_meijer] by [jeroen-meijer][jeroen_meijer].
 - The [Tokyo Night VS Code color theme][tokyo_night] by [enkia][enkia].
 
 **Enjoy!**
 
-[tokyo_night]: https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night 'Tokyo Night VS Code extension page'
-[enkia]: https://github.com/enkia/tokyo-night-vscode-theme 'Tokyo Night author "enkia" GitHub profile page'
+[shibuya_jeroen_meijer]: https://github.com/jeroen-meijer/shibuya 'Shibuya by jeroen-meijer on GitHub'
+[jeroen_meijer]: https://github.com/jeroen-meijer 'jeroen-meijer GitHub profile'
 [fira_code]: https://github.com/tonsky/FiraCode 'Fira Code GitHub repository page'
 [dart_lang]: https://dart.dev 'Dart langauge page'
 [js]: https://en.wikipedia.org/wiki/JavaScript 'JavaScript Wikipedia page'
